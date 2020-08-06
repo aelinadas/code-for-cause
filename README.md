@@ -21,19 +21,19 @@ Abhishek Vishwanath
 
 ## Project Goals
 
-• To develop a system that allows different organizations that will come together and serve a large underprivileged populace in most effective way.
-• To provide smaller kitchen soups to have their own work area to maintain their essential data.
-• To allow soup kitchens and the food banks to have an effective communication by leveraging workflows.
-• To connect food pantries to a larger network of resources.
-• To use data accumulated from the entire system to understand the trends.
+• To develop a system that allows different organizations that will come together and serve a large underprivileged populace in most effective way. <br />
+• To provide smaller kitchen soups to have their own work area to maintain their essential data. <br />
+• To allow soup kitchens and the food banks to have an effective communication by leveraging workflows. <br />
+• To connect food pantries to a larger network of resources. <br />
+• To use data accumulated from the entire system to understand the trends. <br />
 
 ## Problem Statement
 
-• Food pantries and food banks have very limited effective communication due to lack of a sophisticated system
-• Food pantries rely on limited resources from government and local service agencies that makes difficult to maintain continuous supply to the pantry
-• Food pantries do not have any resources to connect to them to health care organizations to have health screening for their community
-• Food pantries stock shelf-stable food (including canned, boxed and other processed foods), they often struggle to meet the nutritional needs of their clients.
-• Food pantries rely on donations to stock their shelves – but often, those donations are low quality or culturally inappropriate
+• Food pantries and food banks have very limited effective communication due to lack of a sophisticated system <br />
+• Food pantries rely on limited resources from government and local service agencies that makes difficult to maintain continuous supply to the pantry <br />
+• Food pantries do not have any resources to connect to them to health care organizations to have health screening for their community <br />
+• Food pantries stock shelf-stable food (including canned, boxed and other processed foods), they often struggle to meet the nutritional needs of their clients <br />
+• Food pantries rely on donations to stock their shelves – but often, those donations are low quality or culturally inappropriate <br />
 
 ## Architecture
 <img align="left" alt="architecture" src="https://github.com/aelinadas/code-for-cause/blob/master/images/architecture.png" />
@@ -47,12 +47,12 @@ Abhishek Vishwanath
 
 ## Solution
 
-• We have designed a system that allows Food Banks, Hospitals, and Food Pantries to communicate effectively to monitor food insecurity and health issues in a community 
-• In this system, we have brought three different entities into the ecosystem model to establish hierarchy and leveraged workflows as a means for effective communication
-• Now, food pantries can communicate directly with doctors and nutritionists to put a check on the community health problems
+• We have designed a system that allows Food Banks, Hospitals, and Food Pantries to communicate effectively to monitor food insecurity and health issues in a community <br />
+• In this system, we have brought three different entities into the ecosystem model to establish hierarchy and leveraged workflows as a means for effective communication <br />
+• Now, food pantries can communicate directly with doctors and nutritionists to put a check on the community health problems <br />
 
 ## Conclusion
 
-* We believe that adopting a well connected organization. 
-* Also, safer and cost-effective healthcare can be provided to patients.
-* Keeping track of inventory across multiple enterprises helps in faster delivery of food from food bank to food pantry.
+* We believe that adopting a well connected organization. <br />
+* Also, safer and cost-effective healthcare can be provided to patients. <br />
+* Keeping track of inventory across multiple enterprises helps in faster delivery of food from food bank to food pantry. <br />
