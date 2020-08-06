@@ -22,12 +22,14 @@ ABHISHEK VISHWANATH | [v-abhishek](https://github.com/v-abhishek)
 
 
 ## Architecture
-<img align="left" alt="architecture" src="https://github.com/aelinadas/code-for-cause/blob/master/images/architecture.png" />
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<img alt="architecture" src="https://github.com/aelinadas/code-for-cause/blob/master/images/architecture.png" />
+
+---
 
 ## Workflow
-<img align="left" alt="architecture" src="https://github.com/aelinadas/code-for-cause/blob/master/images/workflow.png" />
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<img alt="architecture" src="https://github.com/aelinadas/code-for-cause/blob/master/images/workflow.png" />
+
+---
 
 ## Application features and Use Cases
 
@@ -47,7 +49,7 @@ ABHISHEK VISHWANATH | [v-abhishek](https://github.com/v-abhishek)
     <img alt="orderRequest" src="https://github.com/aelinadas/code-for-cause/blob/master/images/packer1.png" />
     <img alt="forward" src="https://github.com/aelinadas/code-for-cause/blob/master/images/packer2.png" />
 10. Logistics Team can confirm the estimated date and time of order delivery, that triggers an email to the Food Pantry Admin informing the date and time of delivery
-    <img alt="logistic" src="https://github.com/aelinadas/code-for-cause/blob/master/images/logistic.png" /> <br />
+    <img alt="logistic" src="https://github.com/aelinadas/code-for-cause/blob/master/images/logistic.png" />
 11.  Email received by a Food Pantry Admin on food delivery
     <img alt="emailOrder" src="https://github.com/aelinadas/code-for-cause/blob/master/images/emailOrder.png" />
 12. Email received by Food Pantry Admin on Nutritionist appointment approval
@@ -65,8 +67,8 @@ ABHISHEK VISHWANATH | [v-abhishek](https://github.com/v-abhishek)
 
 ## Conclusion
 
-• We believe that adopting a well connected organization serves the poor community well. <br />
-• Keeping track of meals served per day can draw insights on econimic condition of the community. <br />
+- We believe that adopting a well connected organization serves the poor community well
+- Keeping track of meals served per day can draw insights on econimic condition of the community
 
 ## Install and Run
 
