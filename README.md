@@ -1,6 +1,6 @@
 # Code-For-Cause
 
-<img alt="insecure" src="https://github.com/aelinadas/aelinadas/blob/master/images/insecure.png" />
+<img alt="insecure" src="https://github.com/aelinadas/code-for-cause/blob/master/images/insecure.png" />
 
 #### A swing application to develop a system that allows different organizations that will come together and serve a large underprivileged populace in most effective way. We have designed a system that allows Food Banks, Hospitals, and Food Pantries to communicate effectively to monitor food insecurity and health issues in an unpriviledged community. In this system, we have brought three different entities into the ecosystem model to establish hierarchy and leveraged workflows as a means for effective communication.
 
