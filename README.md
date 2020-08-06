@@ -37,6 +37,9 @@ Abhishek Vishwanath
 
 ## Architecture
 <img align="left" alt="architecture" height="800px" width="800px" src="https://github.com/aelinadas/code-for-cause/blob/master/images/architecture.png" />
+
+## Workflow
+<img align="left" alt="architecture" height="800px" width="800px" src="https://github.com/aelinadas/code-for-cause/blob/master/images/workflow.png" />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 
