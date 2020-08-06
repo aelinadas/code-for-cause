@@ -36,12 +36,12 @@ Abhishek Vishwanath
 • Food pantries rely on donations to stock their shelves – but often, those donations are low quality or culturally inappropriate
 
 ## Architecture
-<img align="left" alt="architecture" height="800px" width="800px" src="https://github.com/aelinadas/code-for-cause/blob/master/images/architecture.png" />
+<img align="left" alt="architecture" src="https://github.com/aelinadas/code-for-cause/blob/master/images/architecture.png" />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 
 ## Workflow
-<img align="left" alt="architecture" height="800px" width="800px" src="https://github.com/aelinadas/code-for-cause/blob/master/images/workflow.png" />
+<img align="left" alt="architecture" src="https://github.com/aelinadas/code-for-cause/blob/master/images/workflow.png" />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 
