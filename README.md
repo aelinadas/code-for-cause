@@ -32,6 +32,8 @@ Abhishek Vishwanath
 <br/>
 <br/>
 
+
+
 # Solution
 
 • We have designed a system that allows Food Banks, Hospitals, and Food Pantries to communicate effectively to monitor food insecurity and health issues in a community 
