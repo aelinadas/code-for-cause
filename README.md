@@ -5,6 +5,7 @@
 ## Team Info
 
 Team of 2:
+<br />
 Aelina Das
 <br />
 Abhishek Vishwanath
@@ -12,8 +13,8 @@ Abhishek Vishwanath
 
 ## Tools used
 
-<img align="left" alt="swing" width="30px" src="https://github.com/aelinadas/code-for-cause/blob/master/images/swing.png" />
-<img align="left" alt="db4o" width="30px" src="https://github.com/aelinadas/code-for-cause/blob/master/images/db4o.jpg" />
+<img align="left" alt="swing" width="50px" src="https://github.com/aelinadas/code-for-cause/blob/master/images/swing.png" />
+<img align="left" alt="db4o" width="50px" src="https://github.com/aelinadas/code-for-cause/blob/master/images/db4o.jpg" />
 <br />
 <br />
 
@@ -44,6 +45,15 @@ Abhishek Vishwanath
 <br />
 <br />
 <br />
+
+
+
+
+
+
+
+
+
 
 ## Solution
 
