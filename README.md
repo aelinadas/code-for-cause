@@ -12,10 +12,15 @@ Abhishek Vishwanath
 <br />
 
 ## Tools used
-
-<img align="left" alt="java" width="70px" src="https://github.com/aelinadas/aelinadas/blob/master/images/java.png" />
-<img align="left" alt="swing" width="70px" src="https://github.com/aelinadas/code-for-cause/blob/master/images/swing.png" />
-<img align="left" alt="db4o" width="70px" src="https://github.com/aelinadas/code-for-cause/blob/master/images/db4o.jpg" />
+img {
+    float: left;
+    width:  70px;
+    height: 70px;
+    object-fit: cover;
+}
+<img src="https://github.com/aelinadas/aelinadas/blob/master/images/java.png" />
+<img src="https://github.com/aelinadas/code-for-cause/blob/master/images/swing.png" />
+<img src="https://github.com/aelinadas/code-for-cause/blob/master/images/db4o.jpg" />
 <br />
 <br />
 
