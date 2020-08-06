@@ -41,26 +41,26 @@ ABHISHEK VISHWANATH | [v-abhishek](https://github.com/v-abhishek)
     <img alt="cart" src="https://github.com/aelinadas/code-for-cause/blob/master/images/cart.png" />
 7. Also a Food Pantry Admin can raise a health screening request for their community members with the hospitals that are in the same network
     <img alt="health" src="https://github.com/aelinadas/code-for-cause/blob/master/images/health.png" />
-5. A Food Pantry Admin can keep track of requests using the dashboard
+8. A Food Pantry Admin can keep track of requests using the dashboard
     <img alt="track" src="https://github.com/aelinadas/code-for-cause/blob/master/images/track.png" />
-6. A Food packing department can view the pending order requests and once packed they can inform the logistics team to deliver the same
+9. A Food packing department can view the pending order requests and once packed they can inform the logistics team to deliver the same
     <img alt="orderRequest" src="https://github.com/aelinadas/code-for-cause/blob/master/images/packer1.png" />
     <img alt="forward" src="https://github.com/aelinadas/code-for-cause/blob/master/images/packer2.png" />
-7. Logistics Team can confirm the estimated date and time of order delivery, that triggers an email to the Food Pantry Admin informing the date and time of delivery
-    <img alt="logistic" src="https://github.com/aelinadas/code-for-cause/blob/master/images/logistic.png" />
-8.  Email received by a Food Pantry Admin on food delivery
+10. Logistics Team can confirm the estimated date and time of order delivery, that triggers an email to the Food Pantry Admin informing the date and time of delivery
+    <img alt="logistic" src="https://github.com/aelinadas/code-for-cause/blob/master/images/logistic.png" /> <br />
+11.  Email received by a Food Pantry Admin on food delivery
     <img alt="emailOrder" src="https://github.com/aelinadas/code-for-cause/blob/master/images/emailOrder.png" />
-9. Email received by Food Pantry Admin on Nutritionist appointment approval
+12. Email received by Food Pantry Admin on Nutritionist appointment approval
     <img alt="nutrition" src="https://github.com/aelinadas/code-for-cause/blob/master/images/nutritionist.png" />
-10. A doctor can raise laboratory test request for patients and track the lab tests using the dashboard
+13. A doctor can raise laboratory test request for patients and track the lab tests using the dashboard
     <img alt="doctor" src="https://github.com/aelinadas/code-for-cause/blob/master/images/doctor.png" />
-11. A doctor can accept as well as set appointments for health screening that triggers an email to the Food Pantry Admin informing the date and time of health screening
+14. A doctor can accept as well as set appointments for health screening that triggers an email to the Food Pantry Admin informing the date and time of health screening
     <img alt="docApt" src="https://github.com/aelinadas/code-for-cause/blob/master/images/docApt.png" />
-12.  Email received by a Food Pantry Admin on health screening appointment approval
+15.  Email received by a Food Pantry Admin on health screening appointment approval
     <img alt="health" src="https://github.com/aelinadas/code-for-cause/blob/master/images/healthScreening.png" />    
-13. Lab Assistant team can view and work on pending lab tests and can later update the results
+16. Lab Assistant team can view and work on pending lab tests and can later update the results
     <img alt="lab" src="https://github.com/aelinadas/code-for-cause/blob/master/images/lab.png" /> 
-14. A Food Pantry Admin can keep track of number of meals served each day and later draw insights on economic condition of the community
+17. A Food Pantry Admin can keep track of number of meals served each day and later draw insights on economic condition of the community
     <img alt="graph" src="https://github.com/aelinadas/code-for-cause/blob/master/images/graph.png" /> 
 
 ## Conclusion
