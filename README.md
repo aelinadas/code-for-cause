@@ -39,11 +39,9 @@ Abhishek Vishwanath
 <img align="left" alt="architecture" src="https://github.com/aelinadas/code-for-cause/blob/master/images/architecture.png" />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-
 ## Workflow
 <img align="left" alt="architecture" src="https://github.com/aelinadas/code-for-cause/blob/master/images/workflow.png" />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
 
 ## Solution
 
@@ -53,6 +51,6 @@ Abhishek Vishwanath
 
 ## Conclusion
 
-* We believe that adopting a well connected organization. <br />
-* Also, safer and cost-effective healthcare can be provided to patients. <br />
-* Keeping track of inventory across multiple enterprises helps in faster delivery of food from food bank to food pantry. <br />
+• We believe that adopting a well connected organization serves the poor community well. <br />
+• Also, safer and cost-effective healthcare can be provided to patients. <br />
+• Keeping track of inventory across multiple enterprises helps in faster delivery of food from food bank to food pantry. <br />
