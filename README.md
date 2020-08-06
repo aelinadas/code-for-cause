@@ -13,7 +13,7 @@ Abhishek Vishwanath
 ## Tools used
 
 <img align="left" alt="swing" width="30px" src="https://github.com/aelinadas/code-for-cause/blob/master/images/swing.png" />
-<img align="left" alt="db4o" width="30px" src="https://github.com/aelinadas/code-for-cause/blob/master/images/db40.jpg" />
+<img align="left" alt="db4o" width="30px" src="https://github.com/aelinadas/code-for-cause/blob/master/images/db4o.jpg" />
 <br />
 <br />
 
@@ -36,6 +36,10 @@ Abhishek Vishwanath
 
 ## Architecture
 <img align="left" alt="architecture" height="800px" width="800px" src="https://github.com/aelinadas/code-for-cause/blob/master/images/architecture.png" />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
