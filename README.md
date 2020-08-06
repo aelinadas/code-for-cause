@@ -1,40 +1,25 @@
 # Code-For-Cause
 
-#### There are organizations and volunteers around the world who are on a pursuit to serve underprivileged members of the society, in all possible ways. One of the most rudimentary and important entities of a human being is Food. Organizations like Food banks, kitchen soups, shelter homes, community churches etc. are striving to serve the needy at their best. But only few organizations can afford to have system to manage their activities. In this project we are trying to develop a system that allows different organizations to communicate and serve various communities in the best possible way.
+<img alt="insecure" src="https://github.com/aelinadas/aelinadas/blob/master/images/insecure.png" />
+
+#### A swing application to develop a system that allows different organizations that will come together and serve a large underprivileged populace in most effective way. We have designed a system that allows Food Banks, Hospitals, and Food Pantries to communicate effectively to monitor food insecurity and health issues in an unpriviledged community. In this system, we have brought three different entities into the ecosystem model to establish hierarchy and leveraged workflows as a means for effective communication.
 
 ## Team Info
 
-Team of 2:
-<br />
-Aelina Das
-<br />
-Abhishek Vishwanath
-<br />
+NAME | GIT ID
+------------ | -------------
+AELINA DAS | [aelinadas](https://github.com/aelinadas)
+ABHISHEK VISHWANATH | [v-abhishek](https://github.com/v-abhishek)
 
-## Tools used
+## Languages and Tools used
 
 <img align="left" alt="java" width="50px" height="60px" src="https://github.com/aelinadas/aelinadas/blob/master/images/java.png" />
 <img align="left" alt="swing" width="50px" height="40px" src="https://github.com/aelinadas/code-for-cause/blob/master/images/swing.png" />
 <img align="left" alt="db4o" width="60px" height="60px" src="https://github.com/aelinadas/code-for-cause/blob/master/images/db4o.jpg" />
+<img align="left" alt="netbeans" width="50px" height="50px" src="https://github.com/aelinadas/aelinadas/blob/master/images/netbeans.png" />
 <br />
 <br />
 
-
-## Project Goals
-
-• To develop a system that allows different organizations that will come together and serve a large underprivileged populace in most effective way. <br />
-• To provide smaller kitchen soups to have their own work area to maintain their essential data. <br />
-• To allow soup kitchens and the food banks to have an effective communication by leveraging workflows. <br />
-• To connect food pantries to a larger network of resources. <br />
-• To use data accumulated from the entire system to understand the trends. <br />
-
-## Problem Statement
-
-• Food pantries and food banks have very limited effective communication due to lack of a sophisticated system <br />
-• Food pantries rely on limited resources from government and local service agencies that makes difficult to maintain continuous supply to the pantry <br />
-• Food pantries do not have any resources to connect to them to health care organizations to have health screening for their community <br />
-• Food pantries stock shelf-stable food (including canned, boxed and other processed foods), they often struggle to meet the nutritional needs of their clients <br />
-• Food pantries rely on donations to stock their shelves – but often, those donations are low quality or culturally inappropriate <br />
 
 ## Architecture
 <img align="left" alt="architecture" src="https://github.com/aelinadas/code-for-cause/blob/master/images/architecture.png" />
@@ -44,14 +29,50 @@ Abhishek Vishwanath
 <img align="left" alt="architecture" src="https://github.com/aelinadas/code-for-cause/blob/master/images/workflow.png" />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-## Solution
+## Application features and Use Cases
 
-• We have designed a system that allows Food Banks, Hospitals, and Food Pantries to communicate effectively to monitor food insecurity and health issues in a community <br />
-• In this system, we have brought three different entities into the ecosystem model to establish hierarchy and leveraged workflows as a means for effective communication <br />
-• Now, food pantries can communicate directly with doctors and nutritionists to put a check on the community health problems <br />
+1. A common login screen for all users
+2. A Network admin can add Food Banks and Hospitals under them
+3. Food Bank can add multiple soup kitchens under them
+4. A Food Bank Admin can manage their inventory
+5. The inventory that contains the list of food items is visible to all the soup kitchens tied with them
+    <img alt="inventory" src="https://github.com/aelinadas/code-for-cause/blob/master/images/inventory.png" />
+6. A Food Pantry Admin can place an order of food items with their respective Food Banks
+    <img alt="cart" src="https://github.com/aelinadas/code-for-cause/blob/master/images/cart.png" />
+7. Also a Food Pantry Admin can raise a health screening request for their community members with the hospitals that are in the same network
+    <img alt="health" src="https://github.com/aelinadas/code-for-cause/blob/master/images/health.png" />
+5. A Food Pantry Admin can keep track of requests using the dashboard
+    <img alt="track" src="https://github.com/aelinadas/code-for-cause/blob/master/images/track.png" />
+6. A Food packing department can view the pending order requests and once packed they can inform the logistics team to deliver the same
+    <img alt="orderRequest" src="https://github.com/aelinadas/code-for-cause/blob/master/images/packer1.png" />
+    <img alt="forward" src="https://github.com/aelinadas/code-for-cause/blob/master/images/packer2.png" />
+7. Logistics Team can confirm the estimated date and time of order delivery, that triggers an email to the Food Pantry Admin informing the date and time of delivery
+    <img alt="logistic" src="https://github.com/aelinadas/code-for-cause/blob/master/images/logistic.png" />
+8.  Email received by a Food Pantry Admin on food delivery
+    <img alt="emailOrder" src="https://github.com/aelinadas/code-for-cause/blob/master/images/emailOrder.png" />
+9. Email received by Food Pantry Admin on Nutritionist appointment approval
+    <img alt="nutrition" src="https://github.com/aelinadas/code-for-cause/blob/master/images/nutritionist.png" />
+10. A doctor can raise laboratory test request for patients and track the lab tests using the dashboard
+    <img alt="doctor" src="https://github.com/aelinadas/code-for-cause/blob/master/images/doctor.png" />
+11. A doctor can accept as well as set appointments for health screening that triggers an email to the Food Pantry Admin informing the date and time of health screening
+    <img alt="docApt" src="https://github.com/aelinadas/code-for-cause/blob/master/images/docApt.png" />
+12.  Email received by a Food Pantry Admin on health screening appointment approval
+    <img alt="health" src="https://github.com/aelinadas/code-for-cause/blob/master/images/healthScreening.png" />    
+13. Lab Assistant team can view and work on pending lab tests and can later update the results
+    <img alt="lab" src="https://github.com/aelinadas/code-for-cause/blob/master/images/lab.png" /> 
+14. A Food Pantry Admin can keep track of number of meals served each day and later draw insights on economic condition of the community
+    <img alt="graph" src="https://github.com/aelinadas/code-for-cause/blob/master/images/graph.png" /> 
 
 ## Conclusion
 
 • We believe that adopting a well connected organization serves the poor community well. <br />
-• Also, safer and cost-effective healthcare can be provided to patients. <br />
-• Keeping track of inventory across multiple enterprises helps in faster delivery of food from food bank to food pantry. <br />
+• Keeping track of meals served per day can draw insights on econimic condition of the community. <br />
+
+## Install and Run
+
+- Install Java (Java 8 or above) on your machine
+- Clone or download this repository on to your machine
+- Install NetBeans IDE (SE Version), if not present
+- Import the cloned or downloaded project
+- Click on run and the application is ready for use 
+- Enter Username and Password as admin to add new enterprises and user accounts
