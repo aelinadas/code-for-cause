@@ -48,7 +48,8 @@ ABHISHEK VISHWANATH | [v-abhishek](https://github.com/v-abhishek)
 9. A Food packing department can view the pending order requests and once packed they can inform the logistics team to deliver the same
     <img alt="orderRequest" src="https://github.com/aelinadas/code-for-cause/blob/master/images/packer1.png" />
     <img alt="forward" src="https://github.com/aelinadas/code-for-cause/blob/master/images/packer2.png" />
-10. Logistics Team can confirm the estimated date and time of order delivery, that triggers an email to the Food Pantry Admin informing the date and time of delivery
+    <br />
+10. Logistics Team can confirm the estimated date and time of order delivery, that triggers an email to the Food Pantry Admin informing the date and time of delivery <br />
     <img alt="logistic" src="https://github.com/aelinadas/code-for-cause/blob/master/images/logistic.png" />
 11. Email received by a Food Pantry Admin on food delivery
     <img alt="emailOrder" src="https://github.com/aelinadas/code-for-cause/blob/master/images/emailOrder.png" />
