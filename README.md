@@ -37,13 +37,13 @@ Abhishek Vishwanath
 
 ## Architecture
 <img align="left" alt="architecture" src="https://github.com/aelinadas/code-for-cause/blob/master/images/architecture.png" />
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />br /><br /><br /><br />
 
 
 
 ## Workflow
 <img align="left" alt="architecture" src="https://github.com/aelinadas/code-for-cause/blob/master/images/workflow.png" />
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />br /><br /><br /><br />
 
 
 
